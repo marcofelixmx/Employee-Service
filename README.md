@@ -63,13 +63,13 @@ El microservicio incluye **Spring Boot Actuator** para el monitoreo proactivo:
   - Expone métricas de la JVM, uso de CPU y pool de conexiones.
 
 ## Evidencias
-- [Lista todos los empleados](./evidencias/Consultar_todos_los_empleados.PNG)
-- [Obtiene el detalle de un empleado por su ID](evidencias/Consultar_empleado_por_Id.PNG)
-- [Crea un empleado](evidencias/Alta_un_empleado.PNG)
-- [Crea  varios empleados](evidencias/Alta_varios_empleados.PNG)
-- [Actualiza los datos de un empleado](evidencias/Actualizar_empleado.PNG)
-- [Elimina un empleado](evidencias/Elimiar_Empleado.PNG) 
-- [Busca empleados por nombre](evidencias/Buscar_Empleado.PNG)
+- [Lista todos los empleados](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Consultar_todos_los_empleados.PNG)
+- [Obtiene el detalle de un empleado por su ID](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Consultar_empleado_por_Id.PNG)
+- [Crea un empleado](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Alta_un_empleado.PNG)
+- [Crea  varios empleados](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Alta_varios_empleados.PNG)
+- [Actualiza los datos de un empleado](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Actualizar_empleado.PNG)
+- [Elimina un empleado](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Elimiar_Empleado.PNG) 
+- [Busca empleados por nombre](https://github.com/marcofelixmx/Employee-Service/tree/main/Evidencias/Buscar_Empleado.PNG)
 
 
 
