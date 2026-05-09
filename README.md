@@ -63,7 +63,7 @@ El microservicio incluye **Spring Boot Actuator** para el monitoreo proactivo:
   - Expone métricas de la JVM, uso de CPU y pool de conexiones.
 
 ## Evidencias
-- [Lista todos los empleados](evidencias/Consultar_todos_los_empleados.PNG)
+- [Lista todos los empleados](./evidencias/Consultar_todos_los_empleados.PNG)
 - [Obtiene el detalle de un empleado por su ID](evidencias/Consultar_empleado_por_Id.PNG)
 - [Crea un empleado](evidencias/Alta_un_empleado.PNG)
 - [Crea  varios empleados](evidencias/Alta_varios_empleados.PNG)
